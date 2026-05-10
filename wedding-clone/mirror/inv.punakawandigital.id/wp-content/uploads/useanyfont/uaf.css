@@ -1,0 +1,1027 @@
+				@font-face {
+					font-family: 'anydore';
+					src: url('../../uploads/useanyfont/7407Anydore.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7407Anydore.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.anydore{font-family: 'anydore' !important;}
+
+						@font-face {
+					font-family: 'dearsarah';
+					src: url('../../uploads/useanyfont/1490DearSarah.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1490DearSarah.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.dearsarah{font-family: 'dearsarah' !important;}
+
+						@font-face {
+					font-family: 'spring-in-may';
+					src: url('../../uploads/useanyfont/2678Spring-in-may.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2678Spring-in-may.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.spring-in-may{font-family: 'spring-in-may' !important;}
+
+						@font-face {
+					font-family: 'dear-sarah';
+					src: url('../../uploads/useanyfont/1435Dear-Sarah.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1435Dear-Sarah.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.dear-sarah{font-family: 'dear-sarah' !important;}
+
+						@font-face {
+					font-family: 'coffee-extra';
+					src: url('../../uploads/useanyfont/9281Coffee-Extra.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9281Coffee-Extra.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.coffee-extra{font-family: 'coffee-extra' !important;}
+
+						@font-face {
+					font-family: 'autumn';
+					src: url('../../uploads/useanyfont/2546Autumn.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2546Autumn.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.autumn{font-family: 'autumn' !important;}
+
+						@font-face {
+					font-family: 'freestyle';
+					src: url('../../uploads/useanyfont/1847Freestyle.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1847Freestyle.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.freestyle{font-family: 'freestyle' !important;}
+
+						@font-face {
+					font-family: 'rainbow-in-june';
+					src: url('../../uploads/useanyfont/3828Rainbow-in-June.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3828Rainbow-in-June.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.rainbow-in-june{font-family: 'rainbow-in-june' !important;}
+
+						@font-face {
+					font-family: 'strawberrycupcakes';
+					src: url('../../uploads/useanyfont/513StrawberryCupcakes.woff2') format('woff2'),
+						url('../../uploads/useanyfont/513StrawberryCupcakes.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.strawberrycupcakes{font-family: 'strawberrycupcakes' !important;}
+
+						@font-face {
+					font-family: 'mishka';
+					src: url('../../uploads/useanyfont/7924Mishka.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7924Mishka.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mishka{font-family: 'mishka' !important;}
+
+						@font-face {
+					font-family: 'coffe-for-breakfast';
+					src: url('../../uploads/useanyfont/2669Coffe-for-breakfast.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2669Coffe-for-breakfast.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.coffe-for-breakfast{font-family: 'coffe-for-breakfast' !important;}
+
+						@font-face {
+					font-family: 'hashiba';
+					src: url('../../uploads/useanyfont/4323Hashiba.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4323Hashiba.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.hashiba{font-family: 'hashiba' !important;}
+
+						@font-face {
+					font-family: 'calvino';
+					src: url('../../uploads/useanyfont/8024Calvino.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8024Calvino.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.calvino{font-family: 'calvino' !important;}
+
+						@font-face {
+					font-family: 'winterbeauty-script';
+					src: url('../../uploads/useanyfont/604Winterbeauty-Script.woff2') format('woff2'),
+						url('../../uploads/useanyfont/604Winterbeauty-Script.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.winterbeauty-script{font-family: 'winterbeauty-script' !important;}
+
+						@font-face {
+					font-family: 'back-to-school';
+					src: url('../../uploads/useanyfont/6655Back-to-School.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6655Back-to-School.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.back-to-school{font-family: 'back-to-school' !important;}
+
+						@font-face {
+					font-family: 'revania';
+					src: url('../../uploads/useanyfont/8713Revania.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8713Revania.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.revania{font-family: 'revania' !important;}
+
+						@font-face {
+					font-family: 'italianno';
+					src: url('../../uploads/useanyfont/4215Italianno.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4215Italianno.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.italianno{font-family: 'italianno' !important;}
+
+						@font-face {
+					font-family: 'traditional-arabic';
+					src: url('../../uploads/useanyfont/8462Traditional-arabic.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8462Traditional-arabic.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.traditional-arabic{font-family: 'traditional-arabic' !important;}
+
+						@font-face {
+					font-family: 'redrains-demo';
+					src: url('../../uploads/useanyfont/2837Redrains-demo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2837Redrains-demo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.redrains-demo{font-family: 'redrains-demo' !important;}
+
+						@font-face {
+					font-family: 'black-rotela';
+					src: url('../../uploads/useanyfont/9689Black-Rotela.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9689Black-Rotela.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.black-rotela{font-family: 'black-rotela' !important;}
+
+						@font-face {
+					font-family: 'mainstay';
+					src: url('../../uploads/useanyfont/5504Mainstay.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5504Mainstay.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mainstay{font-family: 'mainstay' !important;}
+
+						@font-face {
+					font-family: 'monoline';
+					src: url('../../uploads/useanyfont/7448Monoline.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7448Monoline.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.monoline{font-family: 'monoline' !important;}
+
+						@font-face {
+					font-family: 'praise';
+					src: url('../../uploads/useanyfont/7012Praise.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7012Praise.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.praise{font-family: 'praise' !important;}
+
+						@font-face {
+					font-family: 'playball';
+					src: url('../../uploads/useanyfont/3194Playball.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3194Playball.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.playball{font-family: 'playball' !important;}
+
+						@font-face {
+					font-family: 'the-californication';
+					src: url('../../uploads/useanyfont/1083The-Californication.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1083The-Californication.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.the-californication{font-family: 'the-californication' !important;}
+
+						@font-face {
+					font-family: 'photograph';
+					src: url('../../uploads/useanyfont/9331Photograph.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9331Photograph.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.photograph{font-family: 'photograph' !important;}
+
+						@font-face {
+					font-family: 'muthiara';
+					src: url('../../uploads/useanyfont/6587Muthiara.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6587Muthiara.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.muthiara{font-family: 'muthiara' !important;}
+
+						@font-face {
+					font-family: 'high_spirited';
+					src: url('../../uploads/useanyfont/8207High_spirited.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8207High_spirited.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.high_spirited{font-family: 'high_spirited' !important;}
+
+						@font-face {
+					font-family: 'tangerin';
+					src: url('../../uploads/useanyfont/9294Tangerin.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9294Tangerin.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tangerin{font-family: 'tangerin' !important;}
+
+						@font-face {
+					font-family: 'bernardo';
+					src: url('../../uploads/useanyfont/3318Bernardo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3318Bernardo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bernardo{font-family: 'bernardo' !important;}
+
+						@font-face {
+					font-family: 'grithani';
+					src: url('../../uploads/useanyfont/3157Grithani.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3157Grithani.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.grithani{font-family: 'grithani' !important;}
+
+						@font-face {
+					font-family: 'agencyfb-bold';
+					src: url('../../uploads/useanyfont/5025AgencyFB-Bold.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5025AgencyFB-Bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.agencyfb-bold{font-family: 'agencyfb-bold' !important;}
+
+						@font-face {
+					font-family: 'cream-cake';
+					src: url('../../uploads/useanyfont/8323Cream-Cake.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8323Cream-Cake.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.cream-cake{font-family: 'cream-cake' !important;}
+
+						@font-face {
+					font-family: 'trajan';
+					src: url('../../uploads/useanyfont/2989Trajan.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2989Trajan.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.trajan{font-family: 'trajan' !important;}
+
+						@font-face {
+					font-family: 'monotype-corsiva';
+					src: url('../../uploads/useanyfont/5088Monotype-Corsiva.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5088Monotype-Corsiva.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.monotype-corsiva{font-family: 'monotype-corsiva' !important;}
+
+						@font-face {
+					font-family: 'mutiara';
+					src: url('../../uploads/useanyfont/7291Mutiara.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7291Mutiara.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mutiara{font-family: 'mutiara' !important;}
+
+						@font-face {
+					font-family: 'carolyna-pro-black';
+					src: url('../../uploads/useanyfont/3891Carolyna-Pro-Black.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3891Carolyna-Pro-Black.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.carolyna-pro-black{font-family: 'carolyna-pro-black' !important;}
+
+						@font-face {
+					font-family: 'belisha';
+					src: url('../../uploads/useanyfont/9015Belisha.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9015Belisha.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.belisha{font-family: 'belisha' !important;}
+
+						@font-face {
+					font-family: 'bohemian';
+					src: url('../../uploads/useanyfont/271Bohemian.woff2') format('woff2'),
+						url('../../uploads/useanyfont/271Bohemian.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bohemian{font-family: 'bohemian' !important;}
+
+						@font-face {
+					font-family: 'bodebeck';
+					src: url('../../uploads/useanyfont/2535Bodebeck.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2535Bodebeck.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bodebeck{font-family: 'bodebeck' !important;}
+
+						@font-face {
+					font-family: 'the-bernardo';
+					src: url('../../uploads/useanyfont/7942The-bernardo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7942The-bernardo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.the-bernardo{font-family: 'the-bernardo' !important;}
+
+						@font-face {
+					font-family: 'vogue';
+					src: url('../../uploads/useanyfont/4389Vogue.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4389Vogue.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.vogue{font-family: 'vogue' !important;}
+
+						@font-face {
+					font-family: 'pinyonscript-regular';
+					src: url('../../uploads/useanyfont/8612PinyonScript-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8612PinyonScript-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.pinyonscript-regular{font-family: 'pinyonscript-regular' !important;}
+
+						@font-face {
+					font-family: 'hennypenny';
+					src: url('../../uploads/useanyfont/339HennyPenny.woff2') format('woff2'),
+						url('../../uploads/useanyfont/339HennyPenny.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.hennypenny{font-family: 'hennypenny' !important;}
+
+						@font-face {
+					font-family: 'sweet-saturday';
+					src: url('../../uploads/useanyfont/5014Sweet-Saturday.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5014Sweet-Saturday.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.sweet-saturday{font-family: 'sweet-saturday' !important;}
+
+						@font-face {
+					font-family: 'rumraisin';
+					src: url('../../uploads/useanyfont/9746RumRaisin.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9746RumRaisin.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.rumraisin{font-family: 'rumraisin' !important;}
+
+						@font-face {
+					font-family: 'poorstory';
+					src: url('../../uploads/useanyfont/8630PoorStory.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8630PoorStory.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.poorstory{font-family: 'poorstory' !important;}
+
+						@font-face {
+					font-family: 'matrix';
+					src: url('../../uploads/useanyfont/3365matrix.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3365matrix.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.matrix{font-family: 'matrix' !important;}
+
+						@font-face {
+					font-family: 'bebas-neue';
+					src: url('../../uploads/useanyfont/9311Bebas-Neue.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9311Bebas-Neue.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bebas-neue{font-family: 'bebas-neue' !important;}
+
+						@font-face {
+					font-family: 'akaya-kanadaka';
+					src: url('../../uploads/useanyfont/5638Akaya-Kanadaka.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5638Akaya-Kanadaka.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.akaya-kanadaka{font-family: 'akaya-kanadaka' !important;}
+
+						@font-face {
+					font-family: 'delius-swash-caps';
+					src: url('../../uploads/useanyfont/5359Delius-Swash-Caps.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5359Delius-Swash-Caps.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.delius-swash-caps{font-family: 'delius-swash-caps' !important;}
+
+						@font-face {
+					font-family: 'chilanka';
+					src: url('../../uploads/useanyfont/5914Chilanka.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5914Chilanka.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.chilanka{font-family: 'chilanka' !important;}
+
+						@font-face {
+					font-family: 'autumn-in-november';
+					src: url('../../uploads/useanyfont/1300Autumn-in-November.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1300Autumn-in-November.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.autumn-in-november{font-family: 'autumn-in-november' !important;}
+
+						@font-face {
+					font-family: 'skranji';
+					src: url('../../uploads/useanyfont/4226Skranji.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4226Skranji.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.skranji{font-family: 'skranji' !important;}
+
+						@font-face {
+					font-family: 'gallerymodern-webfon';
+					src: url('../../uploads/useanyfont/3971gallerymodern-webfon.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3971gallerymodern-webfon.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gallerymodern-webfon{font-family: 'gallerymodern-webfon' !important;}
+
+						@font-face {
+					font-family: 'laluxesscript-regula';
+					src: url('../../uploads/useanyfont/2366LaLuxesScript-Regula.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2366LaLuxesScript-Regula.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.laluxesscript-regula{font-family: 'laluxesscript-regula' !important;}
+
+						@font-face {
+					font-family: 'oakes-grotesk-regula';
+					src: url('../../uploads/useanyfont/6648Oakes-Grotesk-Regula.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6648Oakes-Grotesk-Regula.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.oakes-grotesk-regula{font-family: 'oakes-grotesk-regula' !important;}
+
+						@font-face {
+					font-family: 'welcome-ramadhan';
+					src: url('../../uploads/useanyfont/3003welcome-ramadhan.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3003welcome-ramadhan.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.welcome-ramadhan{font-family: 'welcome-ramadhan' !important;}
+
+						@font-face {
+					font-family: 'aladin';
+					src: url('../../uploads/useanyfont/3952Aladin.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3952Aladin.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.aladin{font-family: 'aladin' !important;}
+
+						@font-face {
+					font-family: 'analogue';
+					src: url('../../uploads/useanyfont/339Analogue.woff2') format('woff2'),
+						url('../../uploads/useanyfont/339Analogue.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.analogue{font-family: 'analogue' !important;}
+
+						@font-face {
+					font-family: 'creattion';
+					src: url('../../uploads/useanyfont/714Creattion.woff2') format('woff2'),
+						url('../../uploads/useanyfont/714Creattion.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.creattion{font-family: 'creattion' !important;}
+
+						@font-face {
+					font-family: 'editors-light';
+					src: url('../../uploads/useanyfont/9404Editors-Light.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9404Editors-Light.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.editors-light{font-family: 'editors-light' !important;}
+
+						@font-face {
+					font-family: 'power';
+					src: url('../../uploads/useanyfont/7107power.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7107power.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.power{font-family: 'power' !important;}
+
+						@font-face {
+					font-family: 'maglonyfreeversion';
+					src: url('../../uploads/useanyfont/5509Maglonyfreeversion.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5509Maglonyfreeversion.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.maglonyfreeversion{font-family: 'maglonyfreeversion' !important;}
+
+						@font-face {
+					font-family: 'adinekir';
+					src: url('../../uploads/useanyfont/6796adinekir.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6796adinekir.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.adinekir{font-family: 'adinekir' !important;}
+
+						@font-face {
+					font-family: 'analogue';
+					src: url('../../uploads/useanyfont/1261Analogue.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1261Analogue.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.analogue{font-family: 'analogue' !important;}
+
+						@font-face {
+					font-family: 'boheme-floral';
+					src: url('../../uploads/useanyfont/943Boheme-Floral.woff2') format('woff2'),
+						url('../../uploads/useanyfont/943Boheme-Floral.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.boheme-floral{font-family: 'boheme-floral' !important;}
+
+						@font-face {
+					font-family: 'creattion';
+					src: url('../../uploads/useanyfont/4013Creattion.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4013Creattion.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.creattion{font-family: 'creattion' !important;}
+
+						@font-face {
+					font-family: 'editors-light';
+					src: url('../../uploads/useanyfont/6212Editors-Light.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6212Editors-Light.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.editors-light{font-family: 'editors-light' !important;}
+
+						@font-face {
+					font-family: 'gallerymodern-webfon';
+					src: url('../../uploads/useanyfont/9483gallerymodern-webfon.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9483gallerymodern-webfon.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gallerymodern-webfon{font-family: 'gallerymodern-webfon' !important;}
+
+						@font-face {
+					font-family: 'hatolie';
+					src: url('../../uploads/useanyfont/2484Hatolie.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2484Hatolie.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.hatolie{font-family: 'hatolie' !important;}
+
+						@font-face {
+					font-family: 'laluxesscript-regula';
+					src: url('../../uploads/useanyfont/9441LaLuxesScript-Regula.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9441LaLuxesScript-Regula.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.laluxesscript-regula{font-family: 'laluxesscript-regula' !important;}
+
+						@font-face {
+					font-family: 'power';
+					src: url('../../uploads/useanyfont/4526power.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4526power.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.power{font-family: 'power' !important;}
+
+						@font-face {
+					font-family: 'iskry';
+					src: url('../../uploads/useanyfont/5573iskry.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5573iskry.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.iskry{font-family: 'iskry' !important;}
+
+						@font-face {
+					font-family: 'dk-plague-master';
+					src: url('../../uploads/useanyfont/6025DK-Plague-Master.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6025DK-Plague-Master.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.dk-plague-master{font-family: 'dk-plague-master' !important;}
+
+						@font-face {
+					font-family: 'newyork';
+					src: url('../../uploads/useanyfont/418NewYork.woff2') format('woff2'),
+						url('../../uploads/useanyfont/418NewYork.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.newyork{font-family: 'newyork' !important;}
+
+						@font-face {
+					font-family: 'vtks-bandoleones';
+					src: url('../../uploads/useanyfont/8398Vtks-Bandoleones.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8398Vtks-Bandoleones.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.vtks-bandoleones{font-family: 'vtks-bandoleones' !important;}
+
+						@font-face {
+					font-family: 'collina-regular';
+					src: url('../../uploads/useanyfont/4526Collina-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4526Collina-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.collina-regular{font-family: 'collina-regular' !important;}
+
+						@font-face {
+					font-family: 'anabele';
+					src: url('../../uploads/useanyfont/5086Anabele.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5086Anabele.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.anabele{font-family: 'anabele' !important;}
+
+						@font-face {
+					font-family: 'walbaumdisplay';
+					src: url('../../uploads/useanyfont/8373WalbaumDisplay.woff2') format('woff2'),
+						url('../../uploads/useanyfont/8373WalbaumDisplay.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.walbaumdisplay{font-family: 'walbaumdisplay' !important;}
+
+						@font-face {
+					font-family: 'alumatica-regular';
+					src: url('../../uploads/useanyfont/1427Alumatica-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1427Alumatica-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.alumatica-regular{font-family: 'alumatica-regular' !important;}
+
+						@font-face {
+					font-family: 'paris';
+					src: url('../../uploads/useanyfont/1539paris.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1539paris.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.paris{font-family: 'paris' !important;}
+
+						@font-face {
+					font-family: 'edensor';
+					src: url('../../uploads/useanyfont/310Edensor.woff2') format('woff2'),
+						url('../../uploads/useanyfont/310Edensor.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.edensor{font-family: 'edensor' !important;}
+
+						@font-face {
+					font-family: 'bon-vivan-regular';
+					src: url('../../uploads/useanyfont/4237bon-vivan-regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4237bon-vivan-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bon-vivan-regular{font-family: 'bon-vivan-regular' !important;}
+
+						@font-face {
+					font-family: 'edwardian-script';
+					src: url('../../uploads/useanyfont/7592Edwardian-Script.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7592Edwardian-Script.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.edwardian-script{font-family: 'edwardian-script' !important;}
+
+						@font-face {
+					font-family: 'roserri';
+					src: url('../../uploads/useanyfont/5588Roserri.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5588Roserri.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.roserri{font-family: 'roserri' !important;}
+
+						@font-face {
+					font-family: 'aphrodite-slim-text';
+					src: url('../../uploads/useanyfont/9462Aphrodite-Slim-Text.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9462Aphrodite-Slim-Text.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.aphrodite-slim-text{font-family: 'aphrodite-slim-text' !important;}
+
+						@font-face {
+					font-family: 'garlicha';
+					src: url('../../uploads/useanyfont/6616garlicha.woff2') format('woff2'),
+						url('../../uploads/useanyfont/6616garlicha.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.garlicha{font-family: 'garlicha' !important;}
+
+						@font-face {
+					font-family: 'baskerville-old-face';
+					src: url('../../uploads/useanyfont/4320baskerville-old-face.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4320baskerville-old-face.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.baskerville-old-face{font-family: 'baskerville-old-face' !important;}
+
+						@font-face {
+					font-family: 'italiana-regular';
+					src: url('../../uploads/useanyfont/5666Italiana-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5666Italiana-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.italiana-regular{font-family: 'italiana-regular' !important;}
+
+						@font-face {
+					font-family: 'iskry-regular';
+					src: url('../../uploads/useanyfont/4236Iskry-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4236Iskry-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.iskry-regular{font-family: 'iskry-regular' !important;}
+
+						@font-face {
+					font-family: 'abhaya-libre';
+					src: url('../../uploads/useanyfont/3376Abhaya-Libre.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3376Abhaya-Libre.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.abhaya-libre{font-family: 'abhaya-libre' !important;}
+
+						@font-face {
+					font-family: 'sabonltstd-italic';
+					src: url('../../uploads/useanyfont/2819SabonLTStd-Italic.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2819SabonLTStd-Italic.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.sabonltstd-italic{font-family: 'sabonltstd-italic' !important;}
+
+						@font-face {
+					font-family: 'saudagar';
+					src: url('../../uploads/useanyfont/9218Saudagar.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9218Saudagar.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.saudagar{font-family: 'saudagar' !important;}
+
+						@font-face {
+					font-family: 'senja-mentari-demo';
+					src: url('../../uploads/useanyfont/3500Senja-Mentari-Demo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3500Senja-Mentari-Demo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.senja-mentari-demo{font-family: 'senja-mentari-demo' !important;}
+
+						@font-face {
+					font-family: 'south';
+					src: url('../../uploads/useanyfont/3115South.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3115South.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.south{font-family: 'south' !important;}
+
+						@font-face {
+					font-family: 'alcantera-serif';
+					src: url('../../uploads/useanyfont/2928Alcantera-Serif.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2928Alcantera-Serif.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.alcantera-serif{font-family: 'alcantera-serif' !important;}
+
+						@font-face {
+					font-family: 'aston-script';
+					src: url('../../uploads/useanyfont/3791Aston-Script.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3791Aston-Script.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.aston-script{font-family: 'aston-script' !important;}
+
+						@font-face {
+					font-family: 'brown-sugar';
+					src: url('../../uploads/useanyfont/2482Brown-Sugar.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2482Brown-Sugar.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.brown-sugar{font-family: 'brown-sugar' !important;}
+
+						@font-face {
+					font-family: 'greatness-regular';
+					src: url('../../uploads/useanyfont/9290Greatness-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9290Greatness-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.greatness-regular{font-family: 'greatness-regular' !important;}
+
+						@font-face {
+					font-family: 'ivy-mode';
+					src: url('../../uploads/useanyfont/4964Ivy-Mode.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4964Ivy-Mode.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.ivy-mode{font-family: 'ivy-mode' !important;}
+
+						@font-face {
+					font-family: 'melindaevania';
+					src: url('../../uploads/useanyfont/4202MelindaEvania.woff2') format('woff2'),
+						url('../../uploads/useanyfont/4202MelindaEvania.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.melindaevania{font-family: 'melindaevania' !important;}
+
+						@font-face {
+					font-family: 'romauntgaolines';
+					src: url('../../uploads/useanyfont/326RomauntGaolines.woff2') format('woff2'),
+						url('../../uploads/useanyfont/326RomauntGaolines.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.romauntgaolines{font-family: 'romauntgaolines' !important;}
+
+						@font-face {
+					font-family: 'san-miguel';
+					src: url('../../uploads/useanyfont/1300San-Miguel.woff2') format('woff2'),
+						url('../../uploads/useanyfont/1300San-Miguel.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.san-miguel{font-family: 'san-miguel' !important;}
+
+						@font-face {
+					font-family: 'senja-mentari-demo';
+					src: url('../../uploads/useanyfont/9230Senja-Mentari-Demo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9230Senja-Mentari-Demo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.senja-mentari-demo{font-family: 'senja-mentari-demo' !important;}
+
+						@font-face {
+					font-family: 'senja-mentari-demo';
+					src: url('../../uploads/useanyfont/3651Senja-Mentari-Demo.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3651Senja-Mentari-Demo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.senja-mentari-demo{font-family: 'senja-mentari-demo' !important;}
+
+						@font-face {
+					font-family: 'bickham-script-pro-r';
+					src: url('../../uploads/useanyfont/65Bickham-Script-Pro-R.woff2') format('woff2'),
+						url('../../uploads/useanyfont/65Bickham-Script-Pro-R.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bickham-script-pro-r{font-family: 'bickham-script-pro-r' !important;}
+
+						@font-face {
+					font-family: 'tangerine';
+					src: url('../../uploads/useanyfont/2129Tangerine.woff2') format('woff2'),
+						url('../../uploads/useanyfont/2129Tangerine.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tangerine{font-family: 'tangerine' !important;}
+
+						@font-face {
+					font-family: 'rolasansignature';
+					src: url('../../uploads/useanyfont/5876rolasansignature.woff2') format('woff2'),
+						url('../../uploads/useanyfont/5876rolasansignature.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.rolasansignature{font-family: 'rolasansignature' !important;}
+
+						@font-face {
+					font-family: 'parisienne';
+					src: url('../../uploads/useanyfont/3205Parisienne.woff2') format('woff2'),
+						url('../../uploads/useanyfont/3205Parisienne.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.parisienne{font-family: 'parisienne' !important;}
+
+						@font-face {
+					font-family: 'tempting';
+					src: url('../../uploads/useanyfont/9802Tempting.woff2') format('woff2'),
+						url('../../uploads/useanyfont/9802Tempting.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tempting{font-family: 'tempting' !important;}
+
+						@font-face {
+					font-family: 'mrgabe-regular';
+					src: url('../../uploads/useanyfont/7704MrGabe-Regular.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7704MrGabe-Regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mrgabe-regular{font-family: 'mrgabe-regular' !important;}
+
+						@font-face {
+					font-family: 'desirable-bursh-text';
+					src: url('../../uploads/useanyfont/7406Desirable-Bursh-Text.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7406Desirable-Bursh-Text.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.desirable-bursh-text{font-family: 'desirable-bursh-text' !important;}
+
+						@font-face {
+					font-family: 'snellbt';
+					src: url('../../uploads/useanyfont/7055SnellBT.woff2') format('woff2'),
+						url('../../uploads/useanyfont/7055SnellBT.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.snellbt{font-family: 'snellbt' !important;}
+
+		

@@ -1,0 +1,4 @@
+https://inv.punakawandigital.id/wp-admin/admin-ajax.php
+https://inv.punakawandigital.id/wp-comments-post.php
+https://s.w.org/images/core/emoji/17.0.2/72x72/
+https://s.w.org/images/core/emoji/17.0.2/svg/
