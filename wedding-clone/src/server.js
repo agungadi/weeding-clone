@@ -186,9 +186,29 @@ app.get("/api/guest-submission", async (req, res) => {
 app.get("/api/wishes", async (req, res) => {
   try {
     const slug = cleanText(req.query.slug || "", 120).toLowerCase();
+    const pageRaw = Number(req.query.page || 1);
+    const perPageRaw = Number(req.query.per_page || 5);
+    const page = Number.isFinite(pageRaw) && pageRaw > 0 ? Math.floor(pageRaw) : 1;
+    const perPage = Number.isFinite(perPageRaw) && perPageRaw > 0
+      ? Math.min(Math.floor(perPageRaw), 20)
+      : 5;
+    let offset = (page - 1) * perPage;
     if (!slug) return badRequest(res, "slug is required");
     const invitation = await getInvitationBySlug(slug);
     if (!invitation) return res.status(404).json({ error: "invitation not found" });
+
+    const { rows: countRows } = await pool.query(
+      `
+      SELECT COUNT(*)::int AS total_items
+      FROM wishes
+      WHERE invitation_id = $1
+      `,
+      [invitation.id]
+    );
+    const totalItems = Number(countRows[0]?.total_items || 0);
+    const totalPages = Math.max(1, Math.ceil(totalItems / perPage));
+    const effectivePage = Math.min(page, totalPages);
+    offset = (effectivePage - 1) * perPage;
 
     const { rows } = await pool.query(
       `
@@ -201,11 +221,19 @@ app.get("/api/wishes", async (req, res) => {
       LEFT JOIN invitation_guests AS g ON g.id = w.guest_id
       WHERE w.invitation_id = $1
       ORDER BY w.created_at DESC
-      LIMIT 50
+      LIMIT $2 OFFSET $3
       `,
-      [invitation.id]
+      [invitation.id, perPage, offset]
     );
-    return res.json({ data: rows });
+    return res.json({
+      data: rows,
+      pagination: {
+        page: effectivePage,
+        per_page: perPage,
+        total_items: totalItems,
+        total_pages: totalPages
+      }
+    });
   } catch (err) {
     return res.status(500).json({ error: err.message });
   }

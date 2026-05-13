@@ -407,6 +407,67 @@ p {
 margin: 10px 0px 0px 0px!important;
 }
 
+/* Cover awal: pastikan monogram RA tidak terpotong */
+.elementor-30965 .elementor-element.elementor-element-4a2f69c1 {
+    position: relative;
+    overflow: visible !important;
+}
+.elementor-30965 .elementor-element.elementor-element-4a2f69c1 .elementor-widget-container {
+    overflow: visible !important;
+}
+
+@media (max-width: 767px) {
+    .elementor-30965 .elementor-element.elementor-element-4a2f69c1 {
+        --width: 232px !important;
+        width: 232px !important;
+        min-height: 168px;
+    }
+    body:not(.rtl) .elementor-30965 .elementor-element.elementor-element-61eca0c3 {
+        left: 22px !important;
+    }
+    body.rtl .elementor-30965 .elementor-element.elementor-element-61eca0c3 {
+        right: 22px !important;
+    }
+}
+
+/* Slide awal: monogram RA (id 1dccfc09 + 2680953a) */
+.elementor-30965 .elementor-element.elementor-element-7c7512bd {
+    position: relative;
+    overflow: visible !important;
+}
+.elementor-30965 .elementor-element.elementor-element-7c7512bd .elementor-widget-container {
+    overflow: visible !important;
+}
+.elementor-30965 .elementor-element.elementor-element-1dccfc09 {
+    position: relative;
+    z-index: 1;
+}
+body:not(.rtl) .elementor-30965 .elementor-element.elementor-element-2680953a {
+    left: 18px !important;
+    right: auto !important;
+}
+body.rtl .elementor-30965 .elementor-element.elementor-element-2680953a {
+    right: 18px !important;
+    left: auto !important;
+}
+.elementor-30965 .elementor-element.elementor-element-2680953a {
+    bottom: -18px !important;
+    z-index: 2;
+}
+@media (max-width: 767px) {
+    .elementor-30965 .elementor-element.elementor-element-7c7512bd {
+        min-height: 150px;
+    }
+    body:not(.rtl) .elementor-30965 .elementor-element.elementor-element-2680953a {
+        left: 28px !important;
+        right: auto !important;
+    }
+    body.rtl .elementor-30965 .elementor-element.elementor-element-2680953a {
+        right: 28px !important;
+        left: auto !important;
+    }
+}
+
 .ra-submission-card {
     display: none;
     margin-top: 16px;
@@ -443,17 +504,132 @@ margin: 10px 0px 0px 0px!important;
     font-size: 12px;
     opacity: 0.85;
 }
-	
+
+.ra-wish-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 18px auto 0;
+}
+.ra-wish-pagination .ra-page-btn {
+    min-width: 36px;
+    height: 36px;
+    padding: 0 10px;
+    border: 1px solid #bb8e8f;
+    border-radius: 999px;
+    background: #fdf6ef;
+    color: #7c2527;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.ra-wish-pagination .ra-page-btn:hover:not(:disabled) {
+    background: #f6e3d9;
+}
+.ra-wish-pagination .ra-page-btn.is-active {
+    background: #7c2527;
+    border-color: #7c2527;
+    color: #fff;
+}
+.ra-wish-pagination .ra-page-btn:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+}
+#guest-submission-summary {
+    margin-bottom: 16px;
+}
+
+#cui-wrap-commnent-30965 {
+    display: block !important;
+}
+
+#cui-link-30965 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    border: 1px solid #d0a8aa;
+    background: rgba(255, 247, 238, 0.88);
+    color: #7c2527 !important;
+    text-decoration: none !important;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+#cui-link-30965 .ra-toggle-label {
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 0.72;
+}
+
+#cui-box {
+    margin-top: 12px;
+}
+
+#cui-container-comment-30965 {
+    display: block !important;
+    padding: 0 !important;
+    margin-top: 0 !important;
+}
+
+#cui-container-comment-30965 > li.cui-item-comment {
+    display: block !important;
+    border: 1px solid #d9baa3 !important;
+    border-radius: 14px;
+    background: rgba(255, 250, 246, 0.88);
+    box-shadow: 0 8px 20px rgba(124, 37, 39, 0.08);
+    padding: 14px 16px !important;
+    margin: 0 0 12px !important;
+}
+
+#cui-container-comment-30965 > li.cui-item-comment .cui-comment-content {
+    margin-left: 0 !important;
+}
+
+#cui-container-comment-30965 > li.cui-item-comment .cui-comment-info a.cui-commenter-name {
+    color: #6e2b2e !important;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: none;
+}
+
+#cui-container-comment-30965 > li.cui-item-comment .cui-comment-text p {
+    color: #6e3a3c !important;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 8px 0 0;
+    word-break: break-word;
+}
+
+#cui-container-comment-30965 > li.cui-item-comment .cui-comment-date small {
+    display: block;
+    margin-top: 8px;
+    color: #7f5d5f;
+    font-size: 14px;
+}
+
+@media (max-width: 767px) {
+    #cui-container-comment-30965 > li.cui-item-comment {
+        padding: 12px 14px !important;
+    }
+    #cui-container-comment-30965 > li.cui-item-comment .cui-comment-text p {
+        font-size: 14px;
+    }
+}
+
 </style>
 		<div data-elementor-type="wp-page" data-elementor-id="30965" class="elementor elementor-30965" data-elementor-post-type="page">
 				<div class="elementor-element elementor-element-6fc7e495 e-con-full e-flex e-con e-parent" data-id="6fc7e495" data-element_type="container" id="sec">
 		<div class="elementor-element elementor-element-5b2a7866 e-con-full e-flex e-con e-child" data-id="5b2a7866" data-element_type="container" id="kolom" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-4a2f69c1 e-con-full e-flex e-con e-child" data-id="4a2f69c1" data-element_type="container">
-				<div class="elementor-element elementor-element-2f8b6b7f gradient-text elementor-widget elementor-widget-heading" data-id="2f8b6b7f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-1dccfc09 gradient-text elementor-widget elementor-widget-heading" data-id="1dccfc09" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-default">R</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-61eca0c3 elementor-absolute gradient-text elementor-widget elementor-widget-heading" data-id="61eca0c3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-2680953a elementor-absolute gradient-text elementor-widget elementor-widget-heading" data-id="2680953a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-default">A</h2>				</div>
 				</div>
@@ -632,13 +808,7 @@ Dengan memohon rahmat dan ridho Allah SWT, kami bermaksud mengundang Bapak/Ibu/S
 				</div>
 				<div class="elementor-element elementor-element-1db7035c elementor-shape-circle reveal elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="1db7035c" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-							<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-0f94d9a" href="./mirror/instagram.com/riwan100" target="_blank">
-						<span class="elementor-screen-only">Instagram</span>
-						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
-				</span>
-					</div>
+
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-863deab revealin elementor-widget elementor-widget-image" data-id="863deab" data-element_type="widget" data-widget_type="image.default">
@@ -664,11 +834,7 @@ Dengan memohon rahmat dan ridho Allah SWT, kami bermaksud mengundang Bapak/Ibu/S
 				<div class="elementor-element elementor-element-1a66394c elementor-shape-circle reveal elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="1a66394c" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-0f94d9a" href="./mirror/instagram.com/riwan100" target="_blank">
-						<span class="elementor-screen-only">Instagram</span>
-						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
-				</span>
+
 					</div>
 						</div>
 				</div>
@@ -1649,7 +1815,11 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
   const attendanceSelect = document.getElementById("konfirmasi");
   const submitBtn = document.getElementById("submit-30965");
   const statusBox = document.getElementById("cui-comment-status-30965");
+  const wishesWrapEl = document.getElementById("cui-wrap-commnent-30965");
   const wishesListEl = document.getElementById("cui-container-comment-30965");
+  const wishesPagerEl = document.getElementById("cui-holder-id-30965");
+  const wishesBoxEl = document.getElementById("cui-box");
+  const commentsToggleLinkEl = document.getElementById("cui-link-30965");
   const commentCountEl = document.querySelector("#cui-link-30965 span");
   const hadirCountEl = document.querySelector("#invitation-count-30965 .cui_card-hadir span");
   const tidakHadirCountEl = document.querySelector("#invitation-count-30965 .cui_card-tidak_hadir span");
@@ -1664,10 +1834,45 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
 
   let activeGuest = null;
   let isSubmitting = false;
+  let isCommentsExpanded = true;
+  let commentToggleMetaEl = null;
+  const wishesState = {
+    page: 1,
+    perPage: 5,
+    totalItems: 0,
+    totalPages: 1
+  };
 
   function setFormVisible(visible) {
     if (!form) return;
     form.style.display = visible ? "" : "none";
+  }
+
+  function updateCommentsToggle(totalItems) {
+    const count = Number.isFinite(Number(totalItems))
+      ? Math.max(0, Number(totalItems))
+      : Math.max(0, Number(wishesState.totalItems || 0));
+    if (commentCountEl) commentCountEl.textContent = String(count);
+    if (commentsToggleLinkEl) {
+      commentsToggleLinkEl.setAttribute("aria-expanded", isCommentsExpanded ? "true" : "false");
+      commentsToggleLinkEl.setAttribute(
+        "title",
+        isCommentsExpanded ? "Sembunyikan komentar" : "Tampilkan komentar"
+      );
+    }
+    if (commentToggleMetaEl) {
+      commentToggleMetaEl.textContent = isCommentsExpanded ? "Sembunyikan" : "Tampilkan";
+    }
+  }
+
+  function setCommentsExpanded(expanded) {
+    isCommentsExpanded = !!expanded;
+    if (wishesWrapEl) wishesWrapEl.style.display = "block";
+    if (wishesBoxEl) wishesBoxEl.style.display = isCommentsExpanded ? "block" : "none";
+    if (wishesPagerEl) {
+      wishesPagerEl.style.display = isCommentsExpanded && wishesState.totalPages > 1 ? "block" : "none";
+    }
+    updateCommentsToggle(wishesState.totalItems);
   }
 
   function setStatus(text, ok) {
@@ -1742,13 +1947,17 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
     }
   }
 
-  function renderWishes(items) {
+  function renderWishes(items, pagination) {
     if (!wishesListEl) return;
+    if (wishesWrapEl) wishesWrapEl.style.display = "block";
     wishesListEl.innerHTML = "";
     const list = Array.isArray(items) ? items : [];
+    const meta = pagination || {};
+    const totalItems = Number(meta.total_items || list.length || 0);
+    wishesState.totalItems = totalItems;
     if (!list.length) {
       wishesListEl.innerHTML = "<li class='cui-item-comment'><div class='cui-comment-content'>Belum ada ucapan.</div></li>";
-      if (commentCountEl) commentCountEl.textContent = "0";
+      updateCommentsToggle(totalItems);
       return;
     }
     list.forEach((item) => {
@@ -1763,7 +1972,55 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
         "</div>";
       wishesListEl.appendChild(li);
     });
-    if (commentCountEl) commentCountEl.textContent = String(list.length);
+    updateCommentsToggle(totalItems);
+  }
+
+  async function goToWishesPage(page) {
+    const targetPage = Math.max(1, Number(page || 1));
+    wishesState.page = targetPage;
+    await loadWishesAndStats({ scrollToComments: true });
+  }
+
+  function renderWishesPagination(pagination) {
+    if (!wishesPagerEl) return;
+    const totalPages = Math.max(1, Number(pagination?.total_pages || 1));
+    const currentPage = Math.max(1, Math.min(totalPages, Number(pagination?.page || 1)));
+    wishesPagerEl.innerHTML = "";
+    if (totalPages <= 1 || !isCommentsExpanded) {
+      wishesPagerEl.style.display = "none";
+      return;
+    }
+    wishesPagerEl.style.display = "block";
+
+    const wrap = document.createElement("div");
+    wrap.className = "ra-wish-pagination";
+
+    function createBtn(label, page, disabled, active) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "ra-page-btn" + (active ? " is-active" : "");
+      btn.textContent = label;
+      btn.disabled = !!disabled;
+      if (!disabled) {
+        btn.addEventListener("click", () => {
+          goToWishesPage(page).catch((err) => setStatus(err.message, false));
+        });
+      }
+      return btn;
+    }
+
+    wrap.appendChild(createBtn("Prev", currentPage - 1, currentPage <= 1, false));
+
+    const maxButtons = 5;
+    const startPage = Math.max(1, Math.min(currentPage - 2, totalPages - maxButtons + 1));
+    const endPage = Math.min(totalPages, startPage + maxButtons - 1);
+    for (let p = startPage; p <= endPage; p += 1) {
+      wrap.appendChild(createBtn(String(p), p, false, p === currentPage));
+    }
+
+    wrap.appendChild(createBtn("Next", currentPage + 1, currentPage >= totalPages, false));
+
+    wishesPagerEl.appendChild(wrap);
   }
 
   function renderStats(stats) {
@@ -1772,14 +2029,26 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
     if (tidakHadirCountEl) tidakHadirCountEl.textContent = String(Number(data.tidak_hadir || 0));
   }
 
-  async function loadWishesAndStats() {
+  async function loadWishesAndStats(options) {
+    const opts = options || {};
     try {
       const [wishesJson, statsJson] = await Promise.all([
-        fetchJson(`/api/wishes?slug=${encodeURIComponent(slug)}`),
+        fetchJson(
+          `/api/wishes?slug=${encodeURIComponent(slug)}&page=${encodeURIComponent(wishesState.page)}&per_page=${encodeURIComponent(wishesState.perPage)}`
+        ),
         fetchJson(`/api/rsvps/stats?slug=${encodeURIComponent(slug)}`)
       ]);
-      renderWishes(wishesJson.data || []);
+      const pagination = wishesJson.pagination || {};
+      wishesState.totalItems = Number(pagination.total_items || 0);
+      wishesState.totalPages = Math.max(1, Number(pagination.total_pages || 1));
+      wishesState.page = Math.max(1, Math.min(wishesState.totalPages, Number(pagination.page || wishesState.page)));
+      renderWishes(wishesJson.data || [], pagination);
+      renderWishesPagination(pagination);
       renderStats(statsJson.data || {});
+      setCommentsExpanded(isCommentsExpanded);
+      if (opts.scrollToComments && wishesBoxEl && wishesState.totalPages > 1) {
+        wishesBoxEl.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
     } catch (err) {
       setStatus(err.message, false);
     }
@@ -1820,6 +2089,19 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
   if (fallbackName) applyGuestName(fallbackName);
   setFormEnabled(false);
   setFormVisible(true);
+  if (commentsToggleLinkEl) {
+    commentsToggleLinkEl.setAttribute("href", "#");
+    commentsToggleLinkEl.setAttribute("role", "button");
+    commentsToggleLinkEl.setAttribute("aria-controls", "cui-box");
+    commentsToggleLinkEl.setAttribute("aria-expanded", "true");
+    commentToggleMetaEl = document.createElement("small");
+    commentToggleMetaEl.className = "ra-toggle-label";
+    commentsToggleLinkEl.appendChild(commentToggleMetaEl);
+    commentsToggleLinkEl.addEventListener("click", function (event) {
+      event.preventDefault();
+      setCommentsExpanded(!isCommentsExpanded);
+    });
+  }
 
   if (form) {
     form.addEventListener("submit", async function (event) {
@@ -1875,6 +2157,7 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
         if (messageInput) messageInput.value = "";
         if (attendanceSelect) attendanceSelect.value = "";
         activeGuest.wish_submitted = true;
+        wishesState.page = 1;
         setStatus("Terima kasih. Ucapan Anda sudah tercatat.", true);
         setFormEnabled(false);
         await loadWishesAndStats();
@@ -1896,6 +2179,7 @@ function isYoutubeVideoLink(url){var regExp=/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|
   }
 
   verifyGuest().finally(loadWishesAndStats);
+  setCommentsExpanded(true);
 })();
 </script>
 </body>
