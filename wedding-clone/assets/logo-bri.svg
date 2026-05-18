@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="342" viewBox="0 0 1200 342" role="img" aria-label="Bank BRI">
+  <g fill="#0057b8">
+    <rect x="120" y="76" width="190" height="190" rx="18"/>
+    <rect x="165" y="118" width="95" height="28" fill="#ffffff"/>
+    <rect x="165" y="160" width="78" height="28" fill="#ffffff"/>
+    <rect x="165" y="202" width="95" height="28" fill="#ffffff"/>
+    <text x="370" y="220" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" letter-spacing="2">BRI</text>
+  </g>
+</svg>
